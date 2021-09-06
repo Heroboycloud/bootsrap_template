@@ -16,7 +16,7 @@ This script handles the following parameters, where basically all of them are op
 
 ## License
 
-Please see the [license file](https://github.com/FabianBeiner/PHP-Dummy-Image-Generator/blob/master/LICENSE) for more information.
+Please see the [license file](https://gi
 
 ### Credits
-Original idea by [Russel Heimlich](https://github.com/kingkool68/). When I first published this script, [DummyImage.com](https://dummyimage.com/) was not Open Source, so I had to write a small script to replace the function on my own server.
+Original idea by [Akindel😂](https://github.com/Heroboycloud). When I first published this script, [DummyImage.com](https://dummyimage.com/) was not Open Source, so I had to write a small script to replace the function on my own server.
